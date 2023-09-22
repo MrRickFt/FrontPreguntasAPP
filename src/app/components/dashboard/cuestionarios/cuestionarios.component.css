@@ -1,0 +1,20 @@
+.jumbotron{
+    background-color: white;
+}
+
+.btn-cues{
+    padding: 1rem 2rem;
+    border-radius: 300px;
+}
+
+.radius {
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.cd{
+    height: 200px;
+}

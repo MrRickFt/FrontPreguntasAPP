@@ -1,0 +1,16 @@
+.delete-icon{
+    font-size: 39px;
+    cursor: pointer;
+    color: #ce4b4b;
+}
+
+.radioTam{
+    height: 35px;
+    margin-top: 3px;
+}
+
+.iconAdd{
+    font-size: 39px;
+    cursor: pointer;
+    float: right;
+}
